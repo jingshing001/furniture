@@ -1,0 +1,102 @@
+[
+    {
+        "name" : "Armchair",
+        "price" : "500",
+        "imgSrc" : "./images/armchair.png"
+    },
+    {
+        "name" : "Bed",
+        "price" : "5000",
+        "imgSrc" : "./images/bed.png"
+    },
+    {
+        "name" : "Bench",
+        "price" : "1200",
+        "imgSrc" : "./images/bench.png"
+    },
+    {
+        "name" : "Wood bed",
+        "price" : "600",
+        "imgSrc" : "./images/wood-bed.png"
+    },
+    {
+        "name" : "Cabinet Gray",
+        "price" : "700",
+        "imgSrc" : "./images/cabinet-gray.png"
+    },
+    {
+        "name" : "Dining Table",
+        "price" : "560",
+        "imgSrc" : "./images/dining-table.png"
+    },
+    {
+        "name" : "Cushion",
+        "price" : "1000",
+        "imgSrc" : "./images/cushion.png"
+    },
+    {
+        "name" : "Wood Desk",
+        "price" : "900",
+        "imgSrc" : "./images/wood-desk.png"
+    },
+    {
+        "name" : "Chest Of Drawer",
+        "price" : "500",
+        "imgSrc" : "./images/chest-drawer.png"
+    },
+    {
+        "name" : "Wood Chair",
+        "price" : "1200",
+        "imgSrc" : "./images/wood-chair.png"
+    },
+    {
+        "name" : "Rocking Chair",
+        "price" : "1500",
+        "imgSrc" : "./images/rocking-chair.png"
+    },
+    {
+        "name" : "Dressing Table",
+        "price" : "7000",
+        "imgSrc" : "./images/dressing-table.png"
+    },
+    {
+        "name" : "Bunk Bed",
+        "price" : "5000",
+        "imgSrc" : "./images/bunk-bed.png"
+    },
+    {
+        "name" : "Coffee Table",
+        "price" : "1700",
+        "imgSrc" : "./images/coffee-table.png"
+    },
+    {
+        "name" : "Bookcase",
+        "price" : "3000",
+        "imgSrc" : "./images/bookcase.png"
+    },
+    {
+        "name" : "Folding Chair",
+        "price" : "1600",
+        "imgSrc" : "./images/folding-chair.png"
+    },
+    {
+        "name" : "Wood Lamps",
+        "price" : "2300",
+        "imgSrc" : "./images/wood-lamps.png"
+    },
+    {
+        "name" : "Shoe Rack",
+        "price" : "3500",
+        "imgSrc" : "./images/shoe-rack.png"
+    },
+    {
+        "name" : "Tv Set",
+        "price" : "2400",
+        "imgSrc" : "./images/tv-set.png"
+    },
+    {
+        "name" : "Cupboard",
+        "price" : "3000",
+        "imgSrc" : "./images/cupboard.png"
+    }
+]
