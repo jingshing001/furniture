@@ -18,7 +18,7 @@ import axios  from "./node_modules/axios";
  const cartList=document.querySelector('.cart-list')
 
  const ax = axios.create({
-    baseURL: 'https://jingshing001.github.io/furniture/public/'
+    baseURL: 'https://jingshing001.github.io/furniture/public'
   });
  
  
