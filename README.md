@@ -33,16 +33,23 @@ https://jingshing001.github.io/furniture/furnituredist/
 ## Project setup
 
 ```
-Enter vueprojectcode folder
+Enter furnitureCartCode folder
 ```
 
 ```
 npm install
 ```
 
+## run express server
+
+```
+node server.js
+```
+
+
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run dev
 ```
 
 ### Compiles and minifies for production
