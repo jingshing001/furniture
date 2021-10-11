@@ -10,7 +10,26 @@ https://jingshing001.github.io/furniture/furnituredist/
 
 3.使用Parcel打包資源.
 
-#skill
+# skill
+>1.Web-Api
+> * localStorage
+
+>2.Third-Party Libraries
+>  * axios
+>  * bootstrap
+
+>3.Es6
+
+>4.Sass
+
+>5.Git
+
+>6.PhotoShop(cs6)
+
+>7.Express
+
+>8.Parcel
+
 
 
 
