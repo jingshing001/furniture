@@ -40,7 +40,7 @@ Enter furnitureCartCode folder
 npm install
 ```
 
-## run express server
+## Run express server
 
 ```
 node server.js
