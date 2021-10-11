@@ -30,6 +30,29 @@ https://jingshing001.github.io/furniture/furnituredist/
 
 >8.Parcel
 
+## Project setup
+
+```
+Enter vueprojectcode folder
+```
+
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+Customize configuration
+
+See <a href="https://cli.vuejs.org/config/">Configuration Reference</a>.
 
 
 
